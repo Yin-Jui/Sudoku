@@ -1,4 +1,4 @@
-# c++ course project2(QT_creator)
+# Sudoku
 ##  <span style="color:blue">**Game Screen**
   
   <img src="https://upload.cc/i1/2019/11/30/wprNlD.png" width=300>
